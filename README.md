@@ -2,7 +2,7 @@
 
 The Shop Safe API is the backend API for the Shop Safe android app (see a detailed description of the project in the app github below). It was developed using Java Spring Boot, and it serves the app from an docker cluster in the cloud. 
 
-Devops practices were -ahem-'attempted' - this was my first real try at implementing pipelines. Some sensitive information has been redacted, but most of the original content is there, enjoy!
+Devops practices were implemented with github workflows. Some sensitive information has been redacted, but most of the original content is there, enjoy!
 
 See a detailed description of the android app and its uses on github [here](https://github.com/navn24/ShopSafe_AndroidApp_Public) and download the app on the play store [here](https://play.google.com/store/apps/details?id=com.navn.safeshop)
 
